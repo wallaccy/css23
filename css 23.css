@@ -27,7 +27,7 @@ flex-flow: row wrap; /*shorthand de flex-direction + flex-wrap*/
 }
 
 .jc-flex-start{
-    justify-content: start;
+    justify-content: start; /*CI/CD INTEGRAÇÃO CONTÍNUA/ENTREGA CONTÍNUA/IMPLEMENTAÇÃO CONTÍNUA*/
 
 
 }
